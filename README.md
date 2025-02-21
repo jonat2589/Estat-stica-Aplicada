@@ -25,7 +25,7 @@ Analisar se a Estratégia B resulta em notas **significativamente maiores** do q
 ## 📊 Gráfico da Distribuição Z  
 O gráfico gerado mostra a distribuição normal padrão, a região crítica (vermelha) e a posição do valor de **Z calculado**.  
 
-![Gráfico Z](coloque_o_link_da_imagem_aqui)
+![Gráfico Z](https://github.com/jonat2589/Estat-stica-Aplicada/blob/main/download.png)
 
 ## 🚀 Como Executar  
 Clone o repositório e rode o código:  
